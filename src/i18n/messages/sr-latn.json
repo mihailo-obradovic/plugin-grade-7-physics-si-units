@@ -1,7 +1,9 @@
 {
   "title": "Skraćenice i jedinice SI sistema",
-  "intro": "Odgovorite na svih {total} pitanja, a zatim pošaljite da provjerite odgovore.",
-  "submit": "Pošalji odgovore",
-  "progress": "{answered}/{total} odgovoreno",
-  "result": "Osvojili ste {score} od {total}."
+  "progress": "Pitanje {done} od {total}",
+  "correct": "Bravo!",
+  "wrong": "Još ne — pokušaj ponovo!",
+  "completeTitle": "Sjajno!",
+  "completeBody": "Riješena su sva pitanja — svih {count}!",
+  "playAgain": "Igraj ponovo"
 }
