@@ -1,0 +1,9 @@
+{
+  "title": "Скраћенице и јединице SI система",
+  "progress": "Питање {done} од {total}",
+  "correct": "Браво!",
+  "wrong": "Још не — покушај поново!",
+  "completeTitle": "Сјајно!",
+  "completeBody": "Ријешена су сва питања — свих {count}!",
+  "playAgain": "Играј поново"
+}
